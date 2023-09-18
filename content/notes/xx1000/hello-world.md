@@ -1,7 +1,7 @@
 ---
-title: "Profiling Dosen Pengajar"
+title: "Idea For A Website And The Result"
 date: 2023-09-18T07:44:00+07:00
-authors: ['Zafran Marvis / CODENAME 300']
+authors: ['Zafran Marvis / NIT 21181300']
 tags: ['xx1000']
 draft: false
 math: true
@@ -9,67 +9,56 @@ url: "0048"
 ---
 {{< toc >}}
 
-## Profile
-![GAMBAR DOSEN](https://pengabdian.lppm.itb.ac.id/images/images_dosen/sparisoma%20viridi.png)
-- **Nama :** Dr. rer. nat. Sparisoma Viridi, S.Si. 
-- ** Pekerjaan:** Ahli Nuklir, Engineer, Dosen
+# GEOMETRI
 
-## YT
-{{< youtube RZ1rSae0vqI >}}
-
-## Diagram
-{{< mermaid >}}
-flowchart LR
-	B --> P --> E
-	B(("S1 ITB, Bandung - Indonesia"))
-	P[/"S2 ITB, Bandung - Indonesia"/]
-	E(("S3 Die Universitat Dortmund, Dortmund - Jerman"))
-{{< /mermaid >}}
+## Pengenalan Geometri
+Geometri adalah cabang matematika yang mempelajari sifat, ukuran, dan hubungan geometris antara objek-objek dalam ruang. 
+Geometri membahas bentuk, ukuran, properti sudut, jarak, dan hubungan antara objek geometris seperti titik, garis, bidang, dan benda-benda tiga dimensi seperti kubus, bola, dan prisma.
 
 
-## table 
-Nomor | Tingkat Pendidikan | Institusi | Tahun
-:-: | :- | -: | :-:
-1 | S1 (Fisika) | ITB | 1992 - 1998
-2 | S2 (Fisika) | ITB | 1998 - 2001
-3 | S3 (Fisika Granular) | Technische Universitat Dortmund | 2004 - 2007
+### Contoh Bentuk Geometri
 
++ **Lingkaran**: Lingkaran adalah bentuk geometri yang terdiri dari semua titik yang berjarak sama dari pusatnya. Garis yang mengelilingi lingkaran disebut sebagai keliling atau sirkumferensi, dan jarak dari pusat ke tepi lingkaran disebut sebagai jari-jari.
 
-## Source Data
-+ [Research Gate](https://www.researchgate.net/profile/Sparisoma-Viridi)
-+ [ITB](https://www.itb.ac.id/staf/profil/sparisoma-viridi)
+	![Lingkaran](https://i.pinimg.com/564x/e5/89/ea/e589ea36b034a6885229d832f54da7c3.jpg)
+	
+	- Contoh : Roda mobil, mata koin, atau piring adalah contoh benda-benda yang memiliki bentuk lingkaran
+		
+		![Contoh Lingkaran] (https://i2.wp.com/nurfasta.com/wp-content/uploads/2019/09/Benda-Berbentuk-Lingkaran.jpg)
+		
 
-## Animation with SVG
-{{< html >}}
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Rectangle with animation -->
-  <rect x="10" y="10" width="50" height="50" fill="blue">
-    <animate attributeName="width" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
-    <animate attributeName="height" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="blue;red;green;blue" dur="4s" begin="0s" repeatCount="indefinite" />
-  </rect>
-</svg>
-{{< /html >}}
++ **Segitiga**: Segitiga adalah bentuk geometri yang memiliki tiga sisi dan tiga sudut. Sudut-sudut ini bisa berbeda ukuran dan bentuk tergantung pada jenis segitiga (segitiga sama sisi, segitiga sama kaki, segitiga tumpul, segitiga lancip, dll.).
 
-## Complex SVG with Styled Rect
-{{< html >}}
-<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Rectangle with gradients -->
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
-    </linearGradient>
-  </defs>
+	![Segitiga](https://i.pinimg.com/564x/7a/36/a1/7a36a10c87e3683572c2294deae090a0.jpg)
+	
+	- Contoh : Sebuah segitiga siku-siku adalah contoh segitiga dengan sudut tumpul, seperti segitiga pada sudut 3-4-5
+	
+		![Contoh Segitiga] (https://i0.wp.com/lh3.googleusercontent.com/-KnQzEpKNGLE/WxJn4L2Z_MI/AAAAAAAAHnw/2POEcoeXakcfyekvefeQ4KfxXeRRgKBmwCLcBGAs/s1600/Benda%2BBerbentuk%2BSegitiga.png)
+		
+	
++ **Persegi Panjang**: Persegi panjang adalah bentuk dengan empat sudut siku-siku dan dua pasang sisi sejajar yang panjangnya berbeda.
 
-  <rect x="20" y="20" width="200" height="100" fill="url(#grad1)" stroke="green" stroke-width="3" />
+	![Persegi Panjang](https://i.pinimg.com/564x/e5/89/ea/e589ea36b034a6885229d832f54da7c3.jpg)
+	
+	- Contoh :  Sebuah buku adalah contoh dari persegi panjang. Dimensi panjang dan lebar pada buku yang berbeda menghasilkan bentuk persegi panjang
+		
+		![Contoh Persegi Panjang] (https://1.bp.blogspot.com/-aEHSK6OBSIU/XpwKQAKO1II/AAAAAAAAA7U/jProncdbH2UfByzgoS0Ee3bNa6u4JsbYQCLcBGAsYHQ/s1600/persegi%2BPANJANG.jpg)
+		
 
-  <!-- Text element -->
-  <text x="30" y="160" font-family="Arial" font-size="24" fill="black">Complex SVG</text>
++ **Limas**:  Limas adalah benda tiga dimensi yang memiliki alas dengan bentuk dan ukuran tertentu dan memiliki sisi-sisi yang bertemu di satu titik puncak
 
-  <!-- Circle with animation -->
-  <circle cx="250" cy="150" r="20" fill="orange">
-    <animate attributeName="r" from="20" to="50" dur="2s" begin="0s" repeatCount="indefinite" />
-  </circle>
-</svg>
-{{< /html >}}
+	![Limas](https://i.pinimg.com/564x/7a/36/a1/7a36a10c87e3683572c2294deae090a0.jpg)
+	
+	- Contoh : Sebuah segitiga siku-siku adalah contoh segitiga dengan sudut tumpul, seperti segitiga pada sudut 3-4-5
+	
+		![Contoh Segitiga] (https://i0.wp.com/lh3.googleusercontent.com/-KnQzEpKNGLE/WxJn4L2Z_MI/AAAAAAAAHnw/2POEcoeXakcfyekvefeQ4KfxXeRRgKBmwCLcBGAs/s1600/Benda%2BBerbentuk%2BSegitiga.png)
+	
+	
+### Mermaid
+
+Mari gambarkan struktur geometri dengan menggunakan diagram Mermaid.
+
+```mermaid
+graph LR;
+  A[Lingkaran] -- memiliki --> B[Titik Pusat];
+  C[Segitiga] -- memiliki --> D[Tiga Sisi];
