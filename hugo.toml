@@ -119,10 +119,10 @@ weight = 0
 url = "https://github.com/dudung/"
 
 #[[params.social]]
-name = "Flickr"
-icon = "fa fa-2x fa-inkscape"
-weight = 1
-url = "https://inkscape.org/~dudung/"
+#name = "Flickr"
+#icon = "fa fa-2x fa-inkscape"
+#weight = 1
+#url = "https://inkscape.org/~dudung/"
 
 [[params.social]]
 name = "Gitlab"
