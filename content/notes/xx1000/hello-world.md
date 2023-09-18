@@ -74,9 +74,11 @@ Geometri membahas bentuk, ukuran, properti sudut, jarak, dan hubungan antara obj
 	
 ### Mermaid
 
-Mari gambarkan struktur geometri dengan menggunakan diagram Mermaid.
+```mermaid
+graph TD
+    A[Segitiga] -- memiliki --> B[Sisi]
+    A -- memiliki --> C[Sudut]
+    B -- sejajar --> C
+    A -- memiliki --> D[Luas]
+    A -- memiliki --> E[Keliling]
 
-mermaid
-graph LR
-  A[Lingkaran] --> memiliki --> B[Titik Pusat]
-  C[Segitiga] --> memiliki --> D[Tiga Sisi]
