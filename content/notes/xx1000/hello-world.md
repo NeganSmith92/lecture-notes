@@ -12,6 +12,15 @@ url: "0048"
 ## first section
 Come to papa.
 
+##table 
+Nomor | Tanggal | Kegiatan | Info
+:-: | :- | -: |
+1 | 22 Jun | Latihan | -
+2 | 15 Jul | UTS | $\frac{x}{y}$
+3 | 16 Aug | Praktikum | [Instagram](https://www.instagram.com/)
+4 | 31 Aug | UAS | -
+5 | 2 Sep | Remedial | **nothing**
+
 ##link
 + [Google](https://www.google.com/)
 + [Github](https://github.com)
