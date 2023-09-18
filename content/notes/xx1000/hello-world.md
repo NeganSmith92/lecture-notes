@@ -9,10 +9,13 @@ url: "0048"
 ---
 {{< toc >}}
 
+## PICTURE
+![GAMBAR JAPOY](https://i.pinimg.com/originals/ad/0d/71/ad0d712fcaac866772066c2d88d5b222.jpg)
+
 ## first section
 Come to papa zafran
 
-##table 
+## table 
 Nomor | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
 1 | 22 Jun | Latihan | -
@@ -21,7 +24,7 @@ Nomor | Tanggal | Kegiatan | Info
 4 | 31 Aug | UAS | -
 5 | 2 Sep | Remedial | **nothing**
 
-##link
+## link
 + [Google](https://www.google.com/)
 + [Github](https://github.com)
 
