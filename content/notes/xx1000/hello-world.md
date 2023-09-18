@@ -75,7 +75,7 @@ Geometri membahas bentuk, ukuran, properti sudut, jarak, dan hubungan antara obj
 ### Mermaid
 
 + Lingkaran
-```mermaid
+{{<mermaid>}}
 flowchart TD
     A(Struktur Lingkaran) --> B(Terdiri Dari)
     B --> C(Pusat)
@@ -84,7 +84,7 @@ flowchart TD
     B --> F(Keliling)
 	B --> G(Sudut Pusat)
 	
-```
+{{</mermaid>}}
 
 + Segitiga
 ```mermaid
