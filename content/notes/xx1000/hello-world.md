@@ -12,6 +12,20 @@ url: "0048"
 ## PICTURE
 ![GAMBAR JAPOY](https://i.pinimg.com/originals/ad/0d/71/ad0d712fcaac866772066c2d88d5b222.jpg)
 
+## YT
+{{< youtube n0QT_teLcNk >}}
+
+## Diagram
+{{< mermaid >}}
+flowchart LR
+	B --> I --> P --> O --> E
+	B(("Begin"))
+	I[/"Input"/]
+	P[/"Proccess"/]
+	O[/"Output"/]
+	E(("END"))
+{{< /mermaid >}}
+
 ## first section
 Come to papa zafran
 
