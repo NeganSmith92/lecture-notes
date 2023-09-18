@@ -1,7 +1,7 @@
 ---
-title: "hello world"
+title: "Profiling Dosen Pengajar"
 date: 2023-09-18T07:44:00+07:00
-authors: ['Zafran Marvis']
+authors: ['Zafran Marvis / CODENAME 300']
 tags: ['xx1000']
 draft: false
 math: true
@@ -9,64 +9,34 @@ url: "0048"
 ---
 {{< toc >}}
 
-## PICTURE
-![GAMBAR JAPOY](https://i.pinimg.com/originals/ad/0d/71/ad0d712fcaac866772066c2d88d5b222.jpg)
+## Profile
+![GAMBAR DOSEN](https://pengabdian.lppm.itb.ac.id/images/images_dosen/sparisoma%20viridi.png)
+- **Nama :** Dr. rer. nat. Sparisoma Viridi, S.Si. 
+- ** Pekerjaan: ** Ahli Nuklir, Engineer, Dosen
 
 ## YT
-{{< youtube n0QT_teLcNk >}}
+{{< youtube RZ1rSae0vqI >}}
 
 ## Diagram
 {{< mermaid >}}
 flowchart LR
-	B --> I --> P --> O --> E
-	B(("Begin"))
-	I[/"Input"/]
-	P[/"Proccess"/]
-	O[/"Output"/]
-	E(("END"))
+	B --> P --> E
+	B(("S1 ITB, Bandung - Indonesia"))
+	P[/"S2 ITB, Bandung - Indonesia"/]
+	E(("S3 Die Universitat Dortmund, Dortmund - Jerman"))
 {{< /mermaid >}}
 
-## first section
-Come to papa zafran
 
 ## table 
-Nomor | Tanggal | Kegiatan | Info
+Nomor | Tingkat Pendidikan | Institusi | Tahun
 :-: | :- | -: | :-:
-1 | 22 Jun | Latihan | -
-2 | 15 Jul | UTS | $\frac{x}{y}$
-3 | 16 Aug | Praktikum | [Instagram](https://www.instagram.com/)
-4 | 31 Aug | UAS | -
-5 | 2 Sep | Remedial | **nothing**
-
-## link
-+ [Google](https://www.google.com/)
-+ [Github](https://github.com)
-
-## list
-+ Item
-	- dua
-	- tiga
-+ item lain
-+ item lain lagi
-
-## equation
+1 | S1 (Fisika) | ITB | 1992 - 1998
+2 | S2 (Fisika) | ITB | 1998 - 2001
+3 | S3 (Fisika Granular) | Technische Universitat Dortmund | 2004 - 2007
 
 
-$$
-\mathbf{m} =
-\left[
-\begin{matrix}
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & y^2 & z & x \newline
-\end{matrix}
-\right]
-$$
+## Source Data
++ [Research Gate](https://www.researchgate.net/profile/Sparisoma-Viridi)
++ [ITB](https://www.itb.ac.id/staf/profil/sparisoma-viridi)
 
-$$
-x_{1,2} = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
-$$
 
-$$\tag{23}
-y = ax^2 + bx +c
-$$
