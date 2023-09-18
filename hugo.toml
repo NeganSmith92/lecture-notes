@@ -1,4 +1,4 @@
-baseURL = 'https://dudung.github.io/lecture-notes'
+baseURL = 'https://NeganSmith92.github.io/lecture-notes'
 languageCode = 'en-us'
 title = 'lecture-notes'
 theme = ['hugo-chart', 'hugo-coder']
@@ -13,17 +13,17 @@ enableEmoji = true
 #disqusShortname = "dudung-github-io-blog"
 
 [params]
-author = "Sparisoma Viridi"
+author = "Zafran Marvis"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Sparisoma Viridi's personal website"
+description = "Zafran Marvis's personal website"
 keywords = "blog,developer,personal"
-info = ["Physicist", "Programmer"]
+info = ["Player", "Programmer", "Agent"]
 
 avatarURL = "img/sword.svg"
 
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2022
+since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
@@ -118,7 +118,7 @@ icon = "fa fa-2x fa-github"
 weight = 0
 url = "https://github.com/dudung/"
 
-[[params.social]]
+#[[params.social]]
 name = "Flickr"
 icon = "fa fa-2x fa-inkscape"
 weight = 1
