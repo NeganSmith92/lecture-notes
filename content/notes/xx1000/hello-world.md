@@ -74,11 +74,74 @@ Geometri membahas bentuk, ukuran, properti sudut, jarak, dan hubungan antara obj
 	
 ### Mermaid
 
++ Lingkaran
 ```mermaid
-graph TD
-    A[Segitiga] -- memiliki --> B[Sisi]
-    A -- memiliki --> C[Sudut]
-    B -- sejajar --> C
-    A -- memiliki --> D[Luas]
-    A -- memiliki --> E[Keliling]
+flowchart TD
+    A(Struktur Lingkaran) --> B(Terdiri Dari)
+    B --> C(Pusat)
+    B --> D(Radius)
+    B --> E(Luas)
+    B --> F(Keliling)
+	B --> G(Sudut Pusat)
+	
+```
 
++ Segitiga
+```mermaid
+flowchart TD
+    A(Struktur Segitiga) --> B(Terdiri Dari)
+    B --> C(Sudut)
+    B --> D(Sisi)
+    B --> E(Luas)
+    B --> F(Keliling)
+	B --> G(Ketinggian)
+	
+```
+
++ Persegi Panjang
+```mermaid
+flowchart TD
+    A(Struktur Persegi Panjang) --> B(Terdiri Dari)
+    B --> C(Sudut)
+    B --> D(Sisi)
+    B --> E(Luas)
+    B --> F(Keliling)
+	B --> G(Kedua pasang sisi sejajar)
+	
+```
+
++ Limas
+```mermaid
+flowchart TD
+    A(Struktur Limas) --> B(Terdiri Dari)
+    B --> C(Alas)
+    B --> D(Puncak)
+    B --> E(Tinggi)
+    B --> F(Volume)
+	B --> G(Ruang Dalam Limas)
+	
+```
+
++ Silinder
+```mermaid
+flowchart TD
+    A(Struktur Silinder) --> B(Terdiri Dari)
+    B --> C(Alas)
+    B --> D(Sumbu)
+    B --> E(Jari - Jari)
+    B --> F(Volume)
+	B --> G(Ketinggian)
+	
+```
+
++ Kubus
+```mermaid
+flowchart TD
+    A(Struktur Kubus) --> B(Terdiri Dari)
+    B --> C(Sudut)
+    B --> D(Sisi)
+    B --> E(Luas Permukaan)
+    B --> F(Volume)
+	B --> G(Ruang Dalam Kubus)
+	
+```
