@@ -14,7 +14,7 @@ Come to papa zafran
 
 ##table 
 Nomor | Tanggal | Kegiatan | Info
-:-: | :- | -: |
+:-: | :- | -: | :-:
 1 | 22 Jun | Latihan | -
 2 | 15 Jul | UTS | $\frac{x}{y}$
 3 | 16 Aug | Praktikum | [Instagram](https://www.instagram.com/)
