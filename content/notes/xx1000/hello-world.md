@@ -12,7 +12,7 @@ url: "0048"
 ## Profile
 ![GAMBAR DOSEN](https://pengabdian.lppm.itb.ac.id/images/images_dosen/sparisoma%20viridi.png)
 - **Nama :** Dr. rer. nat. Sparisoma Viridi, S.Si. 
-- ** Pekerjaan: ** Ahli Nuklir, Engineer, Dosen
+- ** Pekerjaan:** Ahli Nuklir, Engineer, Dosen
 
 ## YT
 {{< youtube RZ1rSae0vqI >}}
